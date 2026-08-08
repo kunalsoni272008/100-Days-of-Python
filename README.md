@@ -258,25 +258,78 @@ This challenge emphasizes **building over passive learning** — every concept b
 
 ---
 
-## 🔥 Daily Workflow
+## 🎮 Daily Workflow — Player One, Insert Code
+
+Every day is a "run" through the same controller mapping. No skipped inputs, no continues wasted.
 
 ```
-📚 LEARN  →  💻 CODE  →  🧪 PRACTICE  →  🛠️ BUILD  →  📝 DOCUMENT  →  📦 COMMIT  →  🚀 PUSH  →  🔁 REPEAT
+                    ┌───────────────────────────────────┐
+                    │   100 DAYS OF PYTHON  ── LVL 01   │
+                    │   ▓░░░░░░░░░░░░░░░░░░░░░░  1%      │
+                    ├───────────────────────────────────┤
+                    │                                     │
+                    │        ┌───┐                        │
+                    │        │ ▲ │        ┌───┐  ┌───┐    │
+                    │   ┌───┐└───┘┌───┐   │ X │  │ Y │    │
+                    │   │ ◄ │     │ ► │   └───┘  └───┘    │
+                    │   └───┘┌───┐└───┘   ┌───┐  ┌───┐    │
+                    │        │ ▼ │        │ A │  │ B │    │
+                    │        └───┘        └───┘  └───┘    │
+                    │                                     │
+                    │   ▭ SELECT           ▭ START        │
+                    └───────────────────────────────────┘
 ```
 
-### 📌 Daily Checklist (Non-Negotiable)
+### 🕹️ Controller Mapping
 
-| Step | Action | Evidence |
-|---|---|---|
-| 01 | 📚 Learn the concept | Notes in daily README |
-| 02 | 💻 Write the code | `dayXX.py` with examples |
-| 03 | 🧪 Solve practice problems | `challenges/` folder |
-| 04 | 🛠️ Build something | `mini_project/` folder |
-| 05 | 📝 Document learning | `README.md` per day |
-| 06 | 📦 Commit changes | Meaningful commit messages |
-| 07 | 🚀 Push to GitHub | Green squares every day |
+| Input | Action | What It Means |
+|:---:|---|---|
+| **A** | 📚 LEARN | Study today's concept |
+| **B** | 💻 CODE | Write the implementation |
+| **X** | 🧪 PRACTICE | Solve today's challenges |
+| **Y** | 🛠️ BUILD | Apply it in a mini project |
+| **L / R** | 📝 DOCUMENT | Write the daily README |
+| **SELECT** | 📦 COMMIT | Save progress to git |
+| **START** | 🚀 PUSH | Ship it to GitHub |
+| **↻ CONTINUE** | 🔁 REPEAT | Load Day XX+1 |
 
-**The one rule:** *Don't just watch Python — write Python. Every day, no exceptions.*
+**The one rule:** *Don't just watch Python — write Python. No continues skipped, every day is a real run.*
+
+---
+
+## 🔥 Streak Tracker
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kunalsoni272008&theme=dark&hide_border=true&background=0D1117&ring=3776AB&fire=FF6B00&currStreakLabel=3776AB)
+
+</div>
+
+| Stat | Value |
+|---|---|
+| 🔥 Current Streak | **1 Day** |
+| 🏆 Longest Streak | 1 Day |
+| 📅 Last Push | Day 01 |
+| 🎯 Streak Goal | 100 Days (no zero-days allowed) |
+
+**This Week**
+
+`🟩` `⬜` `⬜` `⬜` `⬜` `⬜` `⬜`
+`Mon` `Tue` `Wed` `Thu` `Fri` `Sat` `Sun`
+
+> 🟩 = day completed & pushed · ⬜ = not yet · a missed day resets the streak, not the mission.
+
+---
+
+## 📈 Progress Graph
+
+<div align="center">
+
+![Phase Progress](https://quickchart.io/chart?bkg=%230D1117&c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Phase%201%5CnFoundations%22%2C%20%22Phase%202%5CnIntermediate%22%2C%20%22Phase%203%5CnPractical%22%2C%20%22Phase%204%5CnData%20%26%20AI%22%2C%20%22Phase%205%5CnProjects%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Days%20Completed%22%2C%20%22data%22%3A%20%5B1%2C%200%2C%200%2C%200%2C%200%5D%2C%20%22backgroundColor%22%3A%20%5B%22%233776AB%22%2C%20%22%232E86C1%22%2C%20%22%238E44AD%22%2C%20%22%23E67E22%22%2C%20%22%23E74C3C%22%5D%2C%20%22borderRadius%22%3A%206%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22100%20Days%20of%20Python%20%5Cu2014%20Phase%20Progress%22%2C%20%22color%22%3A%20%22%23ffffff%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2016%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22y%22%3A%20%7B%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%2020%2C%20%22ticks%22%3A%20%7B%22color%22%3A%20%22%23cccccc%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%23333333%22%7D%7D%2C%20%22x%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23cccccc%22%7D%2C%20%22grid%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D%7D)
+
+*Auto-generated chart — update the `data` array as each phase's day count grows (max 20 days per phase).*
+
+</div>
 
 ---
 
@@ -338,19 +391,24 @@ This challenge emphasizes **building over passive learning** — every concept b
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-**Language & Tooling**
-<img src="https://skillicons.dev/icons?i=python,pycharm,vscode,jupyter,git,github" />
-
-**Data Science & Visualization**
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,plotly" />
-
-**Machine Learning & Databases**
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,mysql,postgresql" />
-
-**APIs & Deployment**
-<img src="https://skillicons.dev/icons?i=fastapi,docker,linux" />
-
+<table>
+<tr>
+<td align="right" width="220"><b>Language &amp; Tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,pycharm,vscode,git,github" /></td>
+</tr>
+<tr>
+<td align="right"><b>Data Science &amp; Visualization</b></td>
+<td><img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,plotly" /></td>
+</tr>
+<tr>
+<td align="right"><b>Machine Learning &amp; Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=sklearn,pytorch,mysql,postgresql" /></td>
+</tr>
+<tr>
+<td align="right"><b>APIs &amp; Deployment</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,docker,linux" /></td>
+</tr>
+</table>
 </div>
 
 | Category | Technologies |
