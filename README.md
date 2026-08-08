@@ -305,9 +305,45 @@ This makes the repository easy to navigate and turns it into a 100-day learning 
 
 🛠️ Tech Stack
 
+# 🛠️ Tech Stack
+
+### 🐍 Programming & Development
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github,jupyter,numpy,pandas,matplotlib,sklearn,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,pycharm,vscode" />
 </p>
+
+### 🔧 Version Control & Collaboration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### 📊 Data Science & Visualization
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn" />
+</p>
+
+### 🤖 Machine Learning & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,mysql,jupyter" />
+</p>
+
+---
+
+| Category | Technologies |
+|---|---|
+| 🐍 Programming | Python |
+| 💻 IDEs | VS Code, PyCharm, Jupyter |
+| 🔧 Version Control | Git |
+| 🐙 Collaboration | GitHub |
+| 🔢 Numerical Computing | NumPy |
+| 🐼 Data Analysis | Pandas |
+| 📈 Visualization | Matplotlib, Seaborn |
+| 🤖 Machine Learning | Scikit-learn |
+| 🗄️ Database | MySQL / SQL |
 
 Category	Tools
 🐍 Language	Python
