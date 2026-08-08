@@ -1,215 +1,77 @@
 🐍 100 Days of Python
 
-100 Days. 100 Challenges. One Goal — Master Python.
+100 Days · 100 Challenges · 1 Goal — Master Python
 
-Welcome to my 100 Days of Python journey 🚀
-
-For the next 100 days, I’m committing to learning, practicing, building, and documenting Python every single day.
-
-This repository contains my daily code, exercises, challenges, notes, mini-projects, and progress — from Python fundamentals to real-world applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Learning+Python+Every+Day+%F0%9F%90%8D;100+Days+of+Consistent+Coding+%F0%9F%94%A5;Building+Projects+%F0%9F%9B%A0%EF%B8%8F;Preparing+for+AI%2FML+%F0%9F%A4%96;One+Day.+One+Challenge.+One+Step+Forward." alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Challenge-100%20Days-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progress-Day%2001%20%2F%20100-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20AI%2FML-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge" />
+</p>
+<p align="center">
+  <b>Learn → Practice → Build → Document → Commit → Push → Repeat</b>
+</p>
 
 ⸻
 
-🎯 The Mission
+🚀 About The Challenge
 
-The goal isn’t just to finish 100 days.
+Welcome to my 100 Days of Python journey.
+
+For the next 100 days, I am committing to writing Python code every single day.
+
+This repository is more than a collection of .py files.
+
+It is a public learning log containing:
+
+📚 Concepts
+💻 Code
+🧠 Challenges
+🛠️ Mini Projects
+📊 Data Analysis
+🤖 Automation
+🌐 APIs
+🗄️ Databases
+📈 AI/ML Foundations
+
+The goal is not simply to complete 100 days.
 
 The goal is to become confident enough with Python to build real things.
 
-Throughout this journey, I will focus on:
-
-* 🐍 Python Programming
-* 🧠 Problem Solving
-* 💻 Writing Clean & Readable Code
-* 🛠️ Building Mini Projects
-* 📊 Data Handling
-* 🤖 Automation
-* 🌐 APIs & Real-World Applications
-* 🧪 Practical Coding Challenges
-* 🚀 Preparing for AI/ML & Data Science
-
 ⸻
 
-📊 My Progress
+📊 Challenge Dashboard
 
-Current Progress: Day 00 / 100
+Metric	Progress
+🗓️ Total Days	100
+✅ Completed	01
+🔥 Current Streak	01 Day
+🧪 Challenges	100+
+🛠️ Projects	Growing
+🐍 Primary Language	Python
+🎯 Final Goal	Python + AI/ML
 
-░░░░░░░░░░░░░░░░░░░░  0%
+Current Progress
 
-Day	Topic	Status
-01	Python Basics	⬜
-02	—	⬜
-03	—	⬜
-04	—	⬜
-05	—	⬜
-…	…	…
-100	Final Project	⬜
+Day 01 / 100
 
-The progress tracker will be updated throughout the challenge.
+████████████████████░ 1%
+
+🔥 Every day adds another block.
 
 ⸻
 
 🗺️ Learning Roadmap
 
-🟢 Phase 1 — Python Foundations
+🟢 Phase 01 — Python Foundations
 
 Days 01–20
 
-* Variables & Data Types
-* Operators
-* Strings
-* Conditional Statements
-* Loops
-* Lists
-* Tuples
-* Sets
-* Dictionaries
-* Functions
-* Scope
-* Recursion
-* Modules & Packages
-* Error Handling
-
-🔵 Phase 2 — Intermediate Python
-
-Days 21–40
-
-* File Handling
-* JSON
-* CSV
-* Object-Oriented Programming
-* Classes & Objects
-* Inheritance
-* Polymorphism
-* Decorators
-* Iterators
-* Generators
-* Lambda Functions
-* List/Dictionary Comprehensions
-* Virtual Environments
-* Package Management
-
-🟣 Phase 3 — Practical Python
-
-Days 41–60
-
-* APIs
-* Web Requests
-* Automation
-* Web Scraping
-* Working with Files
-* Regular Expressions
-* Databases
-* SQL + Python
-* Data Processing
-* Command-Line Programs
-* Practical Automation Projects
-
-🟠 Phase 4 — Python for Data & AI
-
-Days 61–80
-
-* NumPy
-* Pandas
-* Data Cleaning
-* Data Analysis
-* Matplotlib
-* Seaborn
-* Exploratory Data Analysis
-* Statistics with Python
-* Data Visualization
-* Introduction to Machine Learning
-
-🔴 Phase 5 — Projects & Challenges
-
-Days 81–100
-
-* Real-world Python projects
-* Automation projects
-* Data projects
-* API-based applications
-* Problem-solving challenges
-* AI/ML-oriented projects
-* Final Capstone Project 🚀
-
-⸻
-
-📂 Repository Structure
-
-100-Days-of-Python/
-│
-├── Day-01/
-│   ├── day01.py
-│   └── README.md
-│
-├── Day-02/
-│   ├── day02.py
-│   └── README.md
-│
-├── Day-03/
-│   ├── day03.py
-│   └── README.md
-│
-├── ...
-│
-├── Day-100/
-│   ├── day100.py
-│   └── README.md
-│
-├── automation/
-│   └── ...
-│
-├── README.md
-└── .gitignore
-
-Each day will contain:
-
-📁 Day-XX
-│
-├── 🐍 Python code
-└── 📖 Daily README
-
-The daily README will document:
-
-* 📚 Topics learned
-* 🧠 Concepts understood
-* 💻 Practice problems
-* 🛠️ Mini challenges
-* 💡 Key takeaways
-* 🚀 What I built
-
-⸻
-
-🔥 Daily Workflow
-
-Every day follows the same system:
-
-        📚 LEARN
-           ↓
-       💻 CODE
-           ↓
-      🧪 PRACTICE
-           ↓
-      🛠️ BUILD
-           ↓
-      📝 DOCUMENT
-           ↓
-       📦 COMMIT
-           ↓
-       🚀 PUSH
-           ↓
-      🟢 GITHUB
-
-The objective is simple:
-
-Learn something → Write code → Solve problems → Build something → Document it.
-
-⸻
-
-📅 Day-by-Day Journey
-
-Day	Focus	Status
-01	Python Basics	⬜
+Day	Topic	Status
+01	Python Basics	🟢
 02	Operators & Expressions	⬜
 03	Strings	⬜
 04	Conditional Statements	⬜
@@ -219,102 +81,415 @@ Day	Focus	Status
 08	Sets	⬜
 09	Dictionaries	⬜
 10	Functions	⬜
-…	More coming soon	⬜
+11	Scope	⬜
+12	Recursion	⬜
+13	Modules	⬜
+14	Packages	⬜
+15	Error Handling	⬜
+16–20	Practice + Mini Projects	⬜
+
+⸻
+
+🔵 Phase 02 — Intermediate Python
+
+Days 21–40
+
+Topic	What I’ll Practice
+📁 File Handling	Read / Write / Manage Files
+🔗 JSON	APIs & Data Exchange
+📊 CSV	Structured Data
+🏗️ OOP	Classes & Objects
+🧬 Inheritance	Reusable Architecture
+🔄 Polymorphism	Flexible Code
+🎯 Decorators	Function Modification
+🔁 Iterators	Custom Iteration
+⚡ Generators	Lazy Evaluation
+🧩 Comprehensions	Cleaner Python
+🌱 Virtual Environments	Project Isolation
+📦 Package Management	pip & Dependencies
+
+⸻
+
+🟣 Phase 03 — Practical Python
+
+Days 41–60
+
+Skill	Goal
+🌐 APIs	Work with real-world APIs
+📡 Requests	HTTP & Web Data
+🤖 Automation	Automate repetitive tasks
+🕷️ Web Scraping	Extract useful information
+🔎 Regex	Pattern Matching
+🗄️ Databases	Store & retrieve data
+🐬 SQL + Python	Database Applications
+💻 CLI	Build command-line tools
+🛠️ Automation Projects	Build useful utilities
+
+⸻
+
+🟠 Phase 04 — Python for Data & AI
+
+Days 61–80
+
+Technology	Focus
+🔢 NumPy	Numerical Computing
+🐼 Pandas	Data Manipulation
+🧹 Data Cleaning	Real-world datasets
+📊 Data Analysis	Extract insights
+📈 Matplotlib	Visualization
+🎨 Seaborn	Statistical Visualization
+🔍 EDA	Exploratory Data Analysis
+📐 Statistics	Data Science Foundations
+🤖 Scikit-learn	Machine Learning
+
+⸻
+
+🔴 Phase 05 — Projects & Challenges
+
+Days 81–100
+
+🛠️ Real-World Projects
+       ↓
+🤖 Automation Projects
+       ↓
+📊 Data Projects
+       ↓
+🌐 API Applications
+       ↓
+🧠 Problem-Solving Challenges
+       ↓
+🤖 AI/ML Projects
+       ↓
+🏆 FINAL CAPSTONE
+
+⸻
+
+📅 100-Day Progress Tracker
+
+Day	Focus	Status
+01	🐍 Python Basics	🟢
+02	⚙️ Operators	⬜
+03	🔤 Strings	⬜
+04	🔀 Conditions	⬜
+05	🔁 Loops	⬜
+06	📋 Lists	⬜
+07	📦 Tuples	⬜
+08	🔢 Sets	⬜
+09	📚 Dictionaries	⬜
+10	⚡ Functions	⬜
+11–20	🟢 Foundations	⬜
+21–40	🔵 Intermediate Python	⬜
+41–60	🟣 Practical Python	⬜
+61–80	🟠 Data & AI	⬜
+81–99	🔴 Projects	⬜
 100	🏆 Final Capstone	⬜
 
 ⸻
 
-🏆 Goals by Day 100
+🧩 What I’m Building
 
-By the end of this challenge, I want to be able to:
+The journey isn’t only about learning syntax.
 
-✅ Write Python confidently
-✅ Solve programming problems
-✅ Build practical applications
-✅ Automate repetitive tasks
-✅ Work with APIs and databases
-✅ Analyze data using Python
-✅ Build data-driven projects
-✅ Understand Python for AI/ML
-✅ Build a strong GitHub portfolio
+Every phase will contain practical work.
+
+🐍 Python Scripts
+      │
+      ├── 🧮 Calculators
+      ├── 🎮 Mini Games
+      ├── 📁 File Automation
+      ├── 🌐 API Applications
+      ├── 🗄️ Database Projects
+      ├── 🤖 Automation Tools
+      ├── 📊 Data Analysis
+      ├── 📈 Visualization
+      └── 🧠 AI/ML Projects
 
 ⸻
 
-📈 Progress Philosophy
+🔥 Daily Coding System
 
-This challenge is about consistency, not perfection.
+Every day follows the same cycle.
 
-Some days will be easy.
+        📚 LEARN
+           │
+           ▼
+        💻 CODE
+           │
+           ▼
+       🧪 PRACTICE
+           │
+           ▼
+        🛠️ BUILD
+           │
+           ▼
+       📝 DOCUMENT
+           │
+           ▼
+       📦 COMMIT
+           │
+           ▼
+       🚀 PUSH
+           │
+           ▼
+      🟢 GITHUB
+           │
+           └──────────────► NEXT DAY
 
-Some days will be difficult.
+Daily Rule
 
-Some days will involve bugs, errors and debugging.
+Don’t just watch Python. Write Python.
 
-But every day will have one rule:
+⸻
 
-Never skip the learning.
+📂 Repository Architecture
+
+100-Days-of-Python/
+│
+├── 📁 Day-01/
+│   ├── 🐍 day01.py
+│   └── 📖 README.md
+│
+├── 📁 Day-02/
+│   ├── 🐍 day02.py
+│   └── 📖 README.md
+│
+├── 📁 Day-03/
+│   ├── 🐍 day03.py
+│   └── 📖 README.md
+│
+├── 📁 Day-04/
+│   └── ...
+│
+├── ...
+│
+├── 📁 Day-100/
+│   ├── 🐍 day100.py
+│   └── 📖 README.md
+│
+├── 🤖 automation/
+│
+├── 📄 README.md
+│
+└── 🚫 .gitignore
+
+Each day contains:
+
+Component	Purpose
+🐍 Python File	Daily implementation
+📚 Concepts	What I learned
+🧪 Challenges	Problems solved
+🛠️ Mini Project	Practical application
+💡 Takeaways	Important lessons
+📝 README	Daily documentation
+
+⸻
+
+📖 Daily README Format
+
+Every day’s folder will follow a consistent structure.
+
+# Day XX — Topic
+## 📚 What I Learned
+## 🧠 Concepts
+## 💻 Code
+## 🧪 Challenges
+## 🛠️ Mini Project
+## 💡 Key Takeaways
+## ❌ Bugs & Debugging
+## 🚀 What I Can Do Now
+## ⭐ Day XX Complete
+
+This makes the repository easy to navigate and turns it into a 100-day learning portfolio.
 
 ⸻
 
 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github,jupyter,numpy,pandas,matplotlib,sklearn,mysql" />
+</p>
+
+Category	Tools
+🐍 Language	Python
+💻 IDE	VS Code
+🔧 Version Control	Git
+🐙 Repository	GitHub
+📓 Interactive Coding	Jupyter
+🔢 Numerical Computing	NumPy
+🐼 Data Analysis	Pandas
+📊 Visualization	Matplotlib
+🤖 Machine Learning	Scikit-learn
+🗄️ Database	SQL / MySQL
+
+⸻
+
+🏆 Milestones
+
+🐍 DAY 01
+   │
+   ▼
+🔥 DAY 10
+   │
+   ▼
+⚡ DAY 25
+   │
+   ▼
+🛠️ DAY 50
+   │
+   ▼
+📊 DAY 75
+   │
+   ▼
+🤖 DAY 90
+   │
+   ▼
+🏆 DAY 100
+
+Milestone Goals
+
+Milestone	Achievement
+🐣 Day 01	Start the journey
+🔥 Day 10	Build consistency
+⚡ Day 25	Become comfortable with Python
+🛠️ Day 50	Build practical applications
+📊 Day 75	Work confidently with data
+🤖 Day 90	Build AI/ML-oriented projects
+🏆 Day 100	Complete the Capstone
+
+⸻
+
+🎯 Goals by Day 100
+
+By the end of this journey, I want to be able to:
+
+* ✅ Write Python confidently
+* ✅ Solve programming problems
+* ✅ Understand Python deeply
+* ✅ Write clean and readable code
+* ✅ Build practical applications
+* ✅ Automate repetitive tasks
+* ✅ Work with APIs
+* ✅ Work with databases
+* ✅ Analyze real-world datasets
+* ✅ Visualize data
+* ✅ Understand ML fundamentals
+* ✅ Build AI/ML-oriented projects
+* ✅ Maintain a professional GitHub portfolio
+
+⸻
+
+🧠 Learning Philosophy
+
+Consistency > Motivation
+
+Some days will be easy.
+
+Some days will be difficult.
+
+Some days will be full of errors.
+
+Some days will involve debugging for hours.
+
+That’s part of the journey.
+
+ERROR
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+FIX
+  ↓
+LEARN
+  ↓
+IMPROVE
+
+One rule:
+
+Never skip the learning.
+
+Even if I only write a small program, the day counts if I learned something new.
+
+⸻
+
+📈 The Bigger Picture
+
+This challenge is one step in my larger journey toward:
+
 🐍 Python
-💻 VS Code
-🔧 Git
-🐙 GitHub
-📓 Jupyter
-📊 NumPy
-🐼 Pandas
-📈 Matplotlib
-🤖 Scikit-learn
-🗄️ SQL
+   ↓
+📊 Data Analysis
+   ↓
+📈 Data Science
+   ↓
+🤖 Machine Learning
+   ↓
+🧠 Artificial Intelligence
+   ↓
+🚀 Real-World AI Applications
 
-More tools will be added as the journey progresses.
-
-⸻
-
-📌 Daily Commitment
-
-Every completed day should contain:
-
-* Learn the concept
-* Write code
-* Practice
-* Solve challenges
-* Document the day
-* Commit to Git
-* Push to GitHub
+The objective is to build the programming foundation required to eventually work with Data Science, AI and Machine Learning.
 
 ⸻
 
-🚀 Why I’m Doing This
-
-I’m building my foundation in Python as part of my journey toward Data Science, AI & Machine Learning.
-
-Rather than only watching tutorials, I want to learn by actually writing code and building things.
-
-This repository is my public proof of that journey.
-
-⸻
-
-⭐ Follow the Journey
-
-If you’re also learning Python, feel free to explore the repository, try the challenges, and follow along.
-
-Day 1 starts now. 🐍🔥
+⚡ The 100-Day Formula
 
 100 DAYS
-     ↓
+   ×
 100 CHALLENGES
-     ↓
+   ×
 100+ CODING SESSIONS
-     ↓
+   ×
 COUNTLESS BUGS
-     ↓
+   =
 ONE STRONG PYTHON FOUNDATION
 
-🐍 Let’s Code.
+⸻
 
-Day 01 → 02 → 03 → ... → 100
+🌟 Why This Repository Exists
 
-The journey starts today. 🚀
+I’m not doing this challenge just to put “100 Days of Python” on my profile.
+
+I’m doing it to create something more valuable:
+
+Proof of consistent learning.
+
+Every folder represents a day.
+
+Every commit represents progress.
+
+Every bug represents something I had to understand.
+
+Every project represents something I learned to build.
+
+By Day 100, this repository should tell the complete story.
+
+⸻
+
+🚀 Start Here
+
+Current Journey
+
+Day 01 → Day 02 → Day 03 → … → Day 100
+
+🔗	Link
+🐍 Current Day	Day 01
+📚 All Days	Explore Repository
+🤖 Automation	Automation
+
+⸻
+
+<p align="center">
+
+🐍 Learn. Code. Build. Repeat.
+
+One day at a time. One challenge at a time.
+
+🚀 The journey starts now.
+
+Day 01 → 02 → 03 → … → 100
+
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=footer&text=Keep%20Coding%20🐍&fontSize=30&fontColor=ffffff" />
+</p>
