@@ -284,14 +284,14 @@ Every day is a "run" through the same controller mapping. No skipped inputs, no 
 
 | Input | Action | What It Means |
 |:---:|---|---|
-| **A** | 📚 LEARN | Study today's concept |
-| **B** | 💻 CODE | Write the implementation |
-| **X** | 🧪 PRACTICE | Solve today's challenges |
-| **Y** | 🛠️ BUILD | Apply it in a mini project |
-| **L / R** | 📝 DOCUMENT | Write the daily README |
-| **SELECT** | 📦 COMMIT | Save progress to git |
-| **START** | 🚀 PUSH | Ship it to GitHub |
-| **↻ CONTINUE** | 🔁 REPEAT | Load Day XX+1 |
+| **▲ (Up)** | 📚 LEARN | Study today's concept |
+| **◄ / ► (Left / Right)** | 💻 CODE / 🧪 PRACTICE | Write the implementation, then solve challenges |
+| **▼ (Down)** | 🛠️ BUILD | Apply it in a mini project |
+| **X** | 📝 DOCUMENT | Write the daily README |
+| **Y** | 📦 COMMIT | Save progress to git |
+| **A** | 🚀 PUSH | Ship it to GitHub |
+| **B** | 🔁 REPEAT | Load Day XX+1 |
+| **SELECT / START** | ⏮ / ▶ | Jump back a day / jump into today's run |
 
 **The one rule:** *Don't just watch Python — write Python. No continues skipped, every day is a real run.*
 
@@ -325,9 +325,9 @@ Every day is a "run" through the same controller mapping. No skipped inputs, no 
 
 <div align="center">
 
-![Phase Progress](https://quickchart.io/chart?bkg=%230D1117&c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Phase%201%5CnFoundations%22%2C%20%22Phase%202%5CnIntermediate%22%2C%20%22Phase%203%5CnPractical%22%2C%20%22Phase%204%5CnData%20%26%20AI%22%2C%20%22Phase%205%5CnProjects%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Days%20Completed%22%2C%20%22data%22%3A%20%5B1%2C%200%2C%200%2C%200%2C%200%5D%2C%20%22backgroundColor%22%3A%20%5B%22%233776AB%22%2C%20%22%232E86C1%22%2C%20%22%238E44AD%22%2C%20%22%23E67E22%22%2C%20%22%23E74C3C%22%5D%2C%20%22borderRadius%22%3A%206%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22100%20Days%20of%20Python%20%5Cu2014%20Phase%20Progress%22%2C%20%22color%22%3A%20%22%23ffffff%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2016%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22y%22%3A%20%7B%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%2020%2C%20%22ticks%22%3A%20%7B%22color%22%3A%20%22%23cccccc%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%23333333%22%7D%7D%2C%20%22x%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23cccccc%22%7D%2C%20%22grid%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D%7D)
+![Phase Progress](https://quickchart.io/chart?bkg=%230D1117&width=700&height=360&devicePixelRatio=2&c=%7B%22type%22%3A+%22bar%22%2C+%22data%22%3A+%7B%22labels%22%3A+%5B%22Phase+1%22%2C+%22Phase+2%22%2C+%22Phase+3%22%2C+%22Phase+4%22%2C+%22Phase+5%22%5D%2C+%22datasets%22%3A+%5B%7B%22label%22%3A+%22Days+completed%22%2C+%22data%22%3A+%5B1%2C+0%2C+0%2C+0%2C+0%5D%2C+%22backgroundColor%22%3A+%5B%22%233CB371%22%2C+%22%233776AB%22%2C+%22%238E44AD%22%2C+%22%23E67E22%22%2C+%22%23E74C3C%22%5D%2C+%22borderRadius%22%3A+6%7D%5D%7D%2C+%22options%22%3A+%7B%22layout%22%3A+%7B%22padding%22%3A+%7B%22top%22%3A+20%2C+%22bottom%22%3A+10%2C+%22left%22%3A+10%2C+%22right%22%3A+20%7D%7D%2C+%22plugins%22%3A+%7B%22legend%22%3A+%7B%22display%22%3A+false%7D%2C+%22title%22%3A+%7B%22display%22%3A+true%2C+%22text%22%3A+%22100+Days+of+Python+%5Cu2014+Phase+Progress+%28days+completed+%2F+20%29%22%2C+%22color%22%3A+%22%23ffffff%22%2C+%22font%22%3A+%7B%22size%22%3A+16%7D%7D%7D%2C+%22scales%22%3A+%7B%22y%22%3A+%7B%22beginAtZero%22%3A+true%2C+%22max%22%3A+20%2C+%22ticks%22%3A+%7B%22color%22%3A+%22%23ffffff%22%2C+%22font%22%3A+%7B%22size%22%3A+13%7D%2C+%22stepSize%22%3A+5%7D%2C+%22grid%22%3A+%7B%22color%22%3A+%22%23333333%22%7D%7D%2C+%22x%22%3A+%7B%22ticks%22%3A+%7B%22color%22%3A+%22%23ffffff%22%2C+%22font%22%3A+%7B%22size%22%3A+13%7D%7D%2C+%22grid%22%3A+%7B%22display%22%3A+false%7D%7D%7D%7D%7D)
 
-*Auto-generated chart — update the `data` array as each phase's day count grows (max 20 days per phase).*
+*Auto-generated chart — update the `data` array as each phase's day count grows (max 20 days per phase). Bars are color-matched to the phase headers above (green → blue → violet → orange → red).*
 
 </div>
 
@@ -394,19 +394,40 @@ Every day is a "run" through the same controller mapping. No skipped inputs, no 
 <table>
 <tr>
 <td align="right" width="220"><b>Language &amp; Tooling</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,pycharm,vscode,git,github" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+</td>
 </tr>
 <tr>
 <td align="right"><b>Data Science &amp; Visualization</b></td>
-<td><img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,plotly" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" alt="Matplotlib" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=seaborn" width="48" height="48" alt="Seaborn" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=plotly" width="48" height="48" alt="Plotly" />
+</td>
 </tr>
 <tr>
 <td align="right"><b>Machine Learning &amp; Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=sklearn,pytorch,mysql,postgresql" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+</td>
 </tr>
 <tr>
 <td align="right"><b>APIs &amp; Deployment</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,docker,linux" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+</td>
 </tr>
 </table>
 </div>
