@@ -9,7 +9,7 @@
 <br>
 
 <a href="#-progress-dashboard"><img src="https://img.shields.io/badge/Challenge-100%20Days-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="#-progress-dashboard"><img src="https://img.shields.io/badge/Progress-Day%2001%2F100-orange?style=for-the-badge" /></a>
+<a href="#-progress-dashboard"><img src="https://img.shields.io/badge/Progress-Day%2002%2F100-orange?style=for-the-badge" /></a>
 <a href="#-learning-roadmap"><img src="https://img.shields.io/badge/Focus-Python%20%7C%20AI%2FML-success?style=for-the-badge" /></a>
 <a href="#-daily-workflow"><img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge" /></a>
 
@@ -45,20 +45,38 @@ This isn't just a badge for my profile. It's a **daily learning log and coding p
 | Metric | Progress |
 |---|---|
 | 🗓️ Total Days | 100 |
-| ✅ Days Completed | 01 |
-| 🔥 Current Streak | 1 Day |
-| 🧪 Challenges Solved | Growing |
-| 🛠️ Projects Built | Growing |
+| ✅ Days Completed | 02 |
+| 🔥 Current Streak | 2 Days |
+| 🧪 Challenges Solved | 13 |
+| 🛠️ Projects Built | 1 |
 | 🐍 Primary Language | Python |
 | 🎯 End Goal | Python → Data Science → ML |
 
-**`Day 01 / 100`**
+**`Day 02 / 100`**
 
-`█░░░░░░░░░░░░░░░░░░░` **1%**
+`██░░░░░░░░░░░░░░░░░░` **2%**
 
 🔥 *Every completed day adds another block.*
 
 </div>
+
+---
+
+## 📅 100 Days Progress Tracker
+
+This table is the source of truth for what's actually been completed — updated after each day is pushed.
+
+| Day | Topic | Project | Status |
+|:---:|---|---|:---:|
+| [Day 01](./Day-01/) | Python Fundamentals | Personal Profile Generator | ✅ |
+| [Day 02](./Day-02/) | Python Practice — Formulas & Modules | 6 mini programs (triangle area, swap, RNG, unit & temp conversion, calendar) | ✅ |
+| Day 03 | — | — | ⏳ |
+| Day 04 | — | — | ⏳ |
+| Day 05 | — | — | ⏳ |
+| ... | — | — | ⏳ |
+| Day 100 | — | — | ⏳ |
+
+> Days 03–100 will be filled in as they're completed. The detailed **Learning Roadmap** below is the *planned* curriculum — actual daily topics are logged here and in each day's own README once done.
 
 ---
 
@@ -75,7 +93,7 @@ The challenge is structured into **5 progressive phases**, each building on the 
 | Day | Topic | Status | Key Concepts |
 |---|---|---|---|
 | 01 | 🐍 Python Basics | 🟢 Complete | Syntax, variables, I/O, data types |
-| 02 | ⚙️ Operators & Expressions | ⬜ | Arithmetic, comparison, logical, bitwise |
+| 02 | ⚙️ Python Practice¹ | 🟢 Complete | Formulas, swapping, `random`, `calendar` modules |
 | 03 | 🔤 Strings | ⬜ | Formatting, methods, slicing, f-strings |
 | 04 | 🔀 Conditional Statements | ⬜ | if/elif/else, ternary, match-case |
 | 05 | 🔁 Loops | ⬜ | for, while, break, continue, else |
@@ -96,6 +114,8 @@ The challenge is structured into **5 progressive phases**, each building on the 
 | 20 | 🏆 Foundations Capstone | ⬜ | **Personal Finance Tracker** |
 
 </details>
+
+¹ *Day 02 ended up covering practical formulas & standard-library modules instead of the originally planned "Operators & Expressions" — the roadmap below has been kept as the long-term plan, while the Progress Tracker above reflects what was actually built.*
 
 ### 🔵 Phase 2 · Intermediate Python — *Days 21–40*
 *Object-oriented design, modern Python patterns, and tooling*
@@ -264,8 +284,8 @@ Every day is a "run" through the same controller mapping. No skipped inputs, no 
 
 ```
                     ┌───────────────────────────────────┐
-                    │   100 DAYS OF PYTHON  ── LVL 01   │
-                    │   ▓░░░░░░░░░░░░░░░░░░░░░░  1%      │
+                    │   100 DAYS OF PYTHON  ── LVL 02   │
+                    │   ▓▓░░░░░░░░░░░░░░░░░░░░  2%      │
                     ├───────────────────────────────────┤
                     │                                     │
                     │        ┌───┐                        │
@@ -307,14 +327,14 @@ Every day is a "run" through the same controller mapping. No skipped inputs, no 
 
 | Stat | Value |
 |---|---|
-| 🔥 Current Streak | **1 Day** |
-| 🏆 Longest Streak | 1 Day |
-| 📅 Last Push | Day 01 |
+| 🔥 Current Streak | **2 Days** |
+| 🏆 Longest Streak | 2 Days |
+| 📅 Last Push | Day 02 |
 | 🎯 Streak Goal | 100 Days (no zero-days allowed) |
 
 **This Week**
 
-`🟩` `⬜` `⬜` `⬜` `⬜` `⬜` `⬜`
+`🟩` `🟩` `⬜` `⬜` `⬜` `⬜` `⬜`
 `Mon` `Tue` `Wed` `Thu` `Fri` `Sat` `Sun`
 
 > 🟩 = day completed & pushed · ⬜ = not yet · a missed day resets the streak, not the mission.
@@ -325,7 +345,7 @@ Every day is a "run" through the same controller mapping. No skipped inputs, no 
 
 <div align="center">
 
-![Phase Progress](https://quickchart.io/chart?bkg=%230D1117&width=700&height=360&devicePixelRatio=2&c=%7B%22type%22%3A+%22bar%22%2C+%22data%22%3A+%7B%22labels%22%3A+%5B%22Phase+1%22%2C+%22Phase+2%22%2C+%22Phase+3%22%2C+%22Phase+4%22%2C+%22Phase+5%22%5D%2C+%22datasets%22%3A+%5B%7B%22label%22%3A+%22Days+completed%22%2C+%22data%22%3A+%5B1%2C+0%2C+0%2C+0%2C+0%5D%2C+%22backgroundColor%22%3A+%5B%22%233CB371%22%2C+%22%233776AB%22%2C+%22%238E44AD%22%2C+%22%23E67E22%22%2C+%22%23E74C3C%22%5D%2C+%22borderRadius%22%3A+6%7D%5D%7D%2C+%22options%22%3A+%7B%22layout%22%3A+%7B%22padding%22%3A+%7B%22top%22%3A+20%2C+%22bottom%22%3A+10%2C+%22left%22%3A+10%2C+%22right%22%3A+20%7D%7D%2C+%22plugins%22%3A+%7B%22legend%22%3A+%7B%22display%22%3A+false%7D%2C+%22title%22%3A+%7B%22display%22%3A+true%2C+%22text%22%3A+%22100+Days+of+Python+%5Cu2014+Phase+Progress+%28days+completed+%2F+20%29%22%2C+%22color%22%3A+%22%23ffffff%22%2C+%22font%22%3A+%7B%22size%22%3A+16%7D%7D%7D%2C+%22scales%22%3A+%7B%22y%22%3A+%7B%22beginAtZero%22%3A+true%2C+%22max%22%3A+20%2C+%22ticks%22%3A+%7B%22color%22%3A+%22%23ffffff%22%2C+%22font%22%3A+%7B%22size%22%3A+13%7D%2C+%22stepSize%22%3A+5%7D%2C+%22grid%22%3A+%7B%22color%22%3A+%22%23333333%22%7D%7D%2C+%22x%22%3A+%7B%22ticks%22%3A+%7B%22color%22%3A+%22%23ffffff%22%2C+%22font%22%3A+%7B%22size%22%3A+13%7D%7D%2C+%22grid%22%3A+%7B%22display%22%3A+false%7D%7D%7D%7D%7D)
+![Phase Progress](https://quickchart.io/chart?bkg=%230D1117&width=700&height=360&devicePixelRatio=2&c=%7B%22type%22%3A+%22bar%22%2C+%22data%22%3A+%7B%22labels%22%3A+%5B%22Phase+1%22%2C+%22Phase+2%22%2C+%22Phase+3%22%2C+%22Phase+4%22%2C+%22Phase+5%22%5D%2C+%22datasets%22%3A+%5B%7B%22label%22%3A+%22Days+completed%22%2C+%22data%22%3A+%5B2%2C+0%2C+0%2C+0%2C+0%5D%2C+%22backgroundColor%22%3A+%5B%22%233CB371%22%2C+%22%233776AB%22%2C+%22%238E44AD%22%2C+%22%23E67E22%22%2C+%22%23E74C3C%22%5D%2C+%22borderRadius%22%3A+6%7D%5D%7D%2C+%22options%22%3A+%7B%22layout%22%3A+%7B%22padding%22%3A+%7B%22top%22%3A+20%2C+%22bottom%22%3A+10%2C+%22left%22%3A+10%2C+%22right%22%3A+20%7D%7D%2C+%22plugins%22%3A+%7B%22legend%22%3A+%7B%22display%22%3A+false%7D%2C+%22title%22%3A+%7B%22display%22%3A+true%2C+%22text%22%3A+%22100+Days+of+Python+%5Cu2014+Phase+Progress+%28days+completed+%2F+20%29%22%2C+%22color%22%3A+%22%23ffffff%22%2C+%22font%22%3A+%7B%22size%22%3A+16%7D%7D%7D%2C+%22scales%22%3A+%7B%22y%22%3A+%7B%22beginAtZero%22%3A+true%2C+%22max%22%3A+20%2C+%22ticks%22%3A+%7B%22color%22%3A+%22%23ffffff%22%2C+%22font%22%3A+%7B%22size%22%3A+13%7D%2C+%22stepSize%22%3A+5%7D%2C+%22grid%22%3A+%7B%22color%22%3A+%22%23333333%22%7D%7D%2C+%22x%22%3A+%7B%22ticks%22%3A+%7B%22color%22%3A+%22%23ffffff%22%2C+%22font%22%3A+%7B%22size%22%3A+13%7D%7D%2C+%22grid%22%3A+%7B%22display%22%3A+false%7D%7D%7D%7D%7D)
 
 *Auto-generated chart — update the `data` array as each phase's day count grows (max 20 days per phase). Bars are color-matched to the phase headers above (green → blue → violet → orange → red).*
 
@@ -335,53 +355,46 @@ Every day is a "run" through the same controller mapping. No skipped inputs, no 
 
 ## 📂 Repository Architecture
 
+**Current structure:**
+
 ```
 100-Days-of-Python/
 │
 ├── Day-01/
-│   ├── day01.py              # Main implementation
-│   ├── challenges/           # Practice problems
-│   ├── mini_project/         # Applied project
-│   └── README.md             # Daily documentation
+│   ├── Day01.py               # Challenges 1–7 + mini project
+│   └── README.md              # Daily documentation
 │
 ├── Day-02/
-│   └── ... (same structure)
+│   ├── Day02.py                # 6 practice programs
+│   └── README.md              # Daily documentation
 │
-├── ... (through Day-100)
-│
-├── automation/                # Cross-day automation scripts
-├── data/                       # Datasets for analysis days
-├── ml/                         # ML models & experiments
-├── projects/                   # Larger multi-day projects
-├── resources/                  # Cheatsheets, references
-├── README.md                   # You are here
-└── .gitignore
+├── LICENSE
+└── README.md                   # You are here
 ```
+
+As the challenge progresses, each new `Day-XX/` folder will follow the same two-file pattern (`DayXX.py` + `README.md`). Folders like `automation/`, `data/`, `ml/`, `projects/`, and `resources/` are part of the longer-term plan and will be added once a day's work actually needs them — not created empty ahead of time.
 
 ### 📦 Daily Folder Structure
 
 | Component | Purpose |
 |---|---|
-| `dayXX.py` | Core concept implementation with examples |
-| `challenges/` | 3–5 coding problems solved |
-| `mini_project/` | Practical application of the day's topic |
+| `DayXX.py` | All of that day's challenges/programs, in one file |
 | `README.md` | Structured daily log (see format below) |
 
 <details>
 <summary><b>📖 Daily README Template</b></summary>
 
 ```markdown
-# Day XX — Topic
+# 🐍 Day XX — Topic
 
-## 📚 What I Learned
-## 🧠 Core Concepts
-## 💻 Code Highlights
-## 🧪 Challenges Solved
+## 📚 Topics Covered
+## 🧠 What I Learned
+## 🧩 Challenges Completed
 ## 🛠️ Mini Project
-## 🐛 Bugs & Debugging
+## 💻 Files
 ## 💡 Key Takeaways
-## 🚀 What I Can Do Now
-## ⭐ Day XX Complete ✅
+## 📈 Progress
+## 🚀 What's Next?
 ```
 
 </details>
@@ -535,11 +548,9 @@ The objective is a programming foundation strong enough to support serious work 
 
 | Resource | Link |
 |---|---|
-| 🐍 Current Day | [Day 01](./Day-01/) |
+| 🐍 Latest Completed Day | [Day 02](./Day-02/) |
 | 📚 All Days | [Browse Repository](./) |
-| 🤖 Automation Scripts | [/automation](./automation/) |
-| 📊 Datasets | [/data](./data/) |
-| 🌐 Major Projects | [/projects](./projects/) |
+| 📅 Progress Tracker | [Jump to table](#-100-days-progress-tracker) |
 
 ---
 
