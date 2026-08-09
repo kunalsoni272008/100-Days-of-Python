@@ -1,165 +1,159 @@
-🐍 Day 01 — Python Fundamentals
+# 🐍 Day 01 — Python Fundamentals
 
 Day 01 of 100 Days of Python 🚀
 
-Today marks the beginning of my 100 Days of Python journey.
+Today marks the beginning of my 100 Days of Python journey. The focus of Day 01 is building a strong foundation in Python by learning the basic syntax, variables, data types, user input, type conversion, and arithmetic operations.
 
-The focus of Day 01 is building a strong foundation in Python by learning the basic syntax, variables, data types, user input, type conversion, and arithmetic operations.
+---
 
-⸻
+## 📚 Topics Covered
 
-📚 Topics Covered
+- `print()`
+- Comments
+- Variables
+- Strings
+- Integers
+- Floats
+- Booleans
+- `type()`
+- `input()`
+- Type Conversion
+- Arithmetic Operators
 
-* print()
-* Comments
-* Variables
-* Strings
-* Integers
-* Floats
-* Booleans
-* type()
-* input()
-* Type Conversion
-* Arithmetic Operators
+---
 
-⸻
+## 🧠 What I Learned
 
-🧠 What I Learned
+**1. Printing Output**
 
-1. Printing Output
+Python's `print()` function is used to display information on the screen.
 
-Python’s print() function is used to display information on the screen.
-
+```python
 print("Hello, Python!")
+```
 
-2. Variables
+**2. Variables**
 
 Variables are used to store data.
 
+```python
 name = "Kunal"
 age = 18
+```
 
-3. Data Types
+**3. Data Types**
 
 Python provides different built-in data types such as:
 
+```python
 name = "Kunal"       # str
-age = 18             # int
-height = 5.9         # float
-is_student = True    # bool
+age = 18              # int
+height = 5.9          # float
+is_student = True     # bool
+```
 
-4. Checking Data Types
+**4. Checking Data Types**
 
-The type() function tells us the data type of a value.
+The `type()` function tells us the data type of a value.
 
+```python
 print(type(age))
+```
 
-5. Taking User Input
+**5. Taking User Input**
 
-The input() function allows a program to receive information from the user.
+The `input()` function allows a program to receive information from the user.
 
+```python
 name = input("Enter your name: ")
+```
 
-6. Type Conversion
+**6. Type Conversion**
 
-Input received using input() is stored as a string, so numerical values often need conversion.
+Input received using `input()` is stored as a string, so numerical values often need conversion.
 
+```python
 age = int(input("Enter your age: "))
+```
 
-7. Arithmetic Operations
+**7. Arithmetic Operations**
 
 Python can perform mathematical operations such as:
 
-+   Addition
--   Subtraction
-*   Multiplication
-/   Division
-%   Modulus
+| Operator | Meaning |
+|:---:|---|
+| `+` | Addition |
+| `-` | Subtraction |
+| `*` | Multiplication |
+| `/` | Division |
+| `%` | Modulus |
 
-⸻
+---
 
-🧩 Challenges Completed
+## 🧩 Challenges Completed
 
-Challenge	Description	Status
-01	Hello Python	✅
-02	About Me	✅
-03	Data Type Detective	✅
-04	User Introduction	✅
-05	Age Calculator	✅
-06	Simple Calculator	✅
-07	Personal Profile Generator	✅
+| Challenge | Description | Status |
+|:---:|---|:---:|
+| 01 | Hello Python | ✅ |
+| 02 | About Me | ✅ |
+| 03 | Data Type Detective | ✅ |
+| 04 | User Introduction | ✅ |
+| 05 | Age Calculator | ✅ |
+| 06 | Simple Calculator | ✅ |
+| 07 | Personal Profile Generator | ✅ |
 
-⸻
+---
 
-🛠️ Mini Project
+## 🛠️ Mini Project
 
-🪪 Personal Profile Generator
+### 🪪 Personal Profile Generator
 
 For the final challenge, I created a simple interactive Python program that collects information from the user and generates a formatted personal profile.
 
 The program uses:
 
-* Variables
-* input()
-* Type conversion
-* Strings
-* print()
-* Basic formatting
+- Variables
+- `input()`
+- Type conversion
+- Strings
+- `print()`
+- Basic formatting
 
-⸻
+---
 
-💻 File
+## 💻 Files
 
-The complete Day 01 practice code is available here:
+[Day01.py](./Day01.py)
 
-day01.py
+---
 
-⸻
-
-💡 Key Takeaways
+## 💡 Key Takeaways
 
 Python becomes easier when you write and experiment with the code yourself.
 
-Today’s biggest takeaways:
+Today's biggest takeaways:
 
-* Variables store information.
-* Every value has a data type.
-* input() receives user information.
-* input() returns a string by default.
-* Type conversion allows us to work with numerical input.
-* Python can perform mathematical operations easily.
+- Variables store information.
+- Every value has a data type.
+- `input()` receives user information.
+- `input()` returns a string by default.
+- Type conversion allows us to work with numerical input.
+- Python can perform mathematical operations easily.
 
-⸻
+---
 
-📈 Progress
+## 📈 Progress
 
-Day 01 / 100
-█░░░░░░░░░░░░░░░░░░░  1%
+**Day 01 / 100**
 
-Status: ✅ Completed
+`█░░░░░░░░░░░░░░░░░░░` **1%**
 
-⸻
+**Status:** ✅ Completed
 
-🚀 What’s Next?
+---
 
-Day 02
+## 🚀 What's Next?
 
-Next, I’ll continue building my Python fundamentals and move deeper into operators and expressions.
+[Day 02 →](../Day-02/)
 
-⸻
-
-🏁 100 Days. One Goal.
-
-LEARN
-  ↓
-PRACTICE
-  ↓
-BUILD
-  ↓
-DOCUMENT
-  ↓
-REPEAT
-
-Day 01 complete. 🐍🔥
-
-1 / 100
+[← Back to 100 Days of Python](../README.md)
